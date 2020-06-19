@@ -1,0 +1,3 @@
+[submodule "labelme_tools"]
+	path = labelme_tools
+	url = git@192.168.10.30:Algorithm4/Programs/Huatian/commons/labelme-manipulation.git
